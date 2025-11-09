@@ -1,0 +1,16 @@
+
+#body{
+    font-family: Verdana;
+    text-align: center;
+}
+#randomLabel{
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    color: darkgreen;
+}
+
+#randomBtn{
+   text-align: center;
+   color: tomato;
+   display: block;
+}
